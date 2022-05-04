@@ -1,0 +1,21 @@
+body {
+    /* color:#93C74B; */
+    background-color: #93C74B;
+}
+
+.container {
+    /* color:#93C74B; */
+    background-color: #bd4bc7;
+    padding: 1em;
+    margin-top: 1em;
+}
+
+h1 {
+    grid-column: span 2;
+}
+
+h2 {
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin: 0;
+}
